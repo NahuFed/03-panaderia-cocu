@@ -21,7 +21,7 @@ flex-grow: 1;
 
 
 @media all and (max-width:767px){
-    .banner{
+    .carrousel{
         height: 250px;
         object-fit: cover;
     }
